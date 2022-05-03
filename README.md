@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @motola
 - 👀 Interested in Web Development
 - 🌱 I’m currently learning Ionic/Angular/Node
-- 💞️ Collaborations on Node, Javascript and Angular
+- 💞️ Collaborations on Node, Javascript, Vue and React
 - 📫 Contact olutolamoses@gmail.com
 
 <!---
